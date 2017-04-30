@@ -1,0 +1,13 @@
+Digit		KEYWORD1
+DigitInterface 	KEYWORD1
+
+
+setDigits	KEYWORD2
+setBars		KEYWORD2
+setLed		KEYWORD2
+write		KEYWORD2
+getBits		KEYWORD2
+clear		KEYWORD2
+value		KEYWORD2
+
+table		LITERAL1
